@@ -10,9 +10,7 @@ The images were divided as follows:
 After running 20 epochs, the model achieved 98% accuracy on training data and 79.17% accuracy on validation data.
 
 
-For extracting text from images, I have used pytesseract python library.
-It did extract text from the image but I am not able to seperate the product name from other text and everything is jumbled up.
-Therefore, I didn't move any further.
+For extracting text from images, I have used pytesseract python library
 
 To run this project do the steps above, i.e. manually distribute data into empty or not-empty folders, and give correct paths for the same.
 
